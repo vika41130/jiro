@@ -17,11 +17,14 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 TaskDetailComponent has 3 unit tests
 
-## libraries
+## Libraries
 
-ngrx@store to manage app state
-angular material, bootstrap for UI
-@types/uuid to generate task id
-reactive form to build forms
+##### ngrx@store to manage app state
+##### localStorage to store login info
+##### angular material, bootstrap for UI
+##### @types/uuid to generate task id
+##### reactive form to build forms
 
 
+## Completion time
+4 hours
